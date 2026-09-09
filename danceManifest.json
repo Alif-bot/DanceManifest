@@ -73,7 +73,7 @@
       "is_show": true,
       "image_use": "1",
       "api": "pixverse",
-      "thumbnail_gif_path": "https://media.pixverse.ai/asset%2Ftemplate%2FMJ_Dance_Reproduction.webp",
+      "app_thumbnail_gif_url": "https://media.pixverse.ai/asset%2Ftemplate%2FMJ_Dance_Reproduction.webp",
       "audio_path": "https://media.pixverse.ai/asset%2Ftemplate%2FMJ_Dance_Reproduction.mp3"
     },
     "421227548826112": {
@@ -83,7 +83,7 @@
       "is_show": true,
       "image_use": "1",
       "api": "pixverse",
-      "thumbnail_gif_path": "https://media.pixverse.ai/asset%2Ftemplate%2F340.webp",
+      "app_thumbnail_gif_url": "https://media.pixverse.ai/asset%2Ftemplate%2F340.webp",
       "audio_path": "https://media.pixverse.ai/asset%2Ftemplate%2F340.mp3"
     },
     "421226889994752": {
@@ -93,7 +93,7 @@
       "is_show": true,
       "image_use": "1",
       "api": "pixverse",
-      "thumbnail_gif_path": "https://media.pixverse.ai/asset%2Ftemplate%2F339.webp",
+      "app_thumbnail_gif_url": "https://media.pixverse.ai/asset%2Ftemplate%2F339.webp",
       "audio_path": "https://media.pixverse.ai/asset%2Ftemplate%2F340.mp3"
     },
     "421226558487040": {
@@ -103,7 +103,7 @@
       "is_show": true,
       "image_use": "1",
       "api": "pixverse",
-      "thumbnail_gif_path": "https://media.pixverse.ai/asset%2Ftemplate%2F338.webp",
+      "app_thumbnail_gif_url": "https://media.pixverse.ai/asset%2Ftemplate%2F338.webp",
       "audio_path": "https://media.pixverse.ai/asset%2Ftemplate%2F340.mp3"
     },
     "421224298813952": {
@@ -113,7 +113,7 @@
       "is_show": true,
       "image_use": "1",
       "api": "pixverse",
-      "thumbnail_gif_path": "https://media.pixverse.ai/asset%2Ftemplate%2F331.webp",
+      "app_thumbnail_gif_url": "https://media.pixverse.ai/asset%2Ftemplate%2F331.webp",
       "audio_path": "https://media.pixverse.ai/asset%2Ftemplate%2F340.mp3"
     },
     "421224037978624": {
@@ -123,7 +123,7 @@
       "is_show": true,
       "image_use": "1",
       "api": "pixverse",
-      "thumbnail_gif_path": "https://media.pixverse.ai/asset%2Ftemplate%2F333.webp",
+      "app_thumbnail_gif_url": "https://media.pixverse.ai/asset%2Ftemplate%2F333.webp",
       "audio_path": "https://media.pixverse.ai/asset%2Ftemplate%2F340.mp3"
     },
     "423352324923840": {
