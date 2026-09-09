@@ -7,12 +7,18 @@
   "categories": [
     {
       "id": "new",
-      "title": "NEW",
+      "title": "Category 1",
       "effects": [
         421224037978624,
         421224298813952,
-        421226558487040, 
-        421226889994752
+        421226558487040,
+        421226889994752,
+        423352324923840,
+        422469880444992,
+        421961846842688,
+        421941788742976,
+        423375773916096,
+        423040174550720
       ]
     },
     {
@@ -20,88 +26,395 @@
       "title": "Hot Trends",
       "effects": [
         415265487980480,
-        421227548826112
+        421227548826112,
+        421227859032576,
+        409766559675264,
+        423394087102848
       ]
-    }, 
+    },
+    {
+      "id": "hot",
+      "title": "Category 2",
+      "effects": [
+        418458040716224,
+        418457177152448,
+        418456472466368,
+        419495334797504,
+        419496621990080,
+        421229156672000,
+        419494522339520,
+        418094188948608,
+        383756608071104,
+        417209344089216
+      ]
+    },
+    {
+      "id": "hot",
+      "title": "Category 3",
+      "effects": [
+        416278340746048,
+        409589071559552,
+        416120620480704,
+        403739217192896,
+        388850822837312,
+        421406817151296,
+        421271048389120,
+        422328195663104,
+        421050748444352,
+        386547264666688
+      ]
+    }
   ],
   "effects": {
     "415265487980480": {
       "display_name": "MJ Dance",
       "template_id": 415265487980480,
-      "workflow_tag": "meta_gpt_it2v_v6_enhanced_260429",
       "display_prompt": "Upload photos to generate MJ dance style videos!",
-      "effect_type": "1",
-      "duration": 10,
-      "marker": "",
-      "thumbnail_path": "https://media.pixverse.ai/asset%2Ftemplate%2FMJ_Dance_Reproduction.jpg",
-      "thumbnail_video_path": "https://media.pixverse.ai/asset%2Ftemplate%2FMJ_Dance_Reproduction.mov",
+      "is_show": true,
+      "image_use": "1",
+      "api": "pixverse",
       "thumbnail_gif_path": "https://media.pixverse.ai/asset%2Ftemplate%2FMJ_Dance_Reproduction.webp",
       "audio_path": "https://media.pixverse.ai/asset%2Ftemplate%2FMJ_Dance_Reproduction.mp3"
     },
     "421227548826112": {
       "display_name": "Jolie Nana's related dances",
       "template_id": 421227548826112,
-      "workflow_tag": "meta_v66reference_20260726",
-      "display_prompt": "Upload your ownbeautiful photos and getthe same dance video withjust one click",
-      "effect_type": "1",
-      "duration": 15,
-      "marker": "",
-      "thumbnail_path": "https://media.pixverse.ai/asset%2Ftemplate%2F340.jpg",
-      "thumbnail_video_path": "https://media.pixverse.ai/asset%2Ftemplate%2F340.mp4",
+      "display_prompt": "Upload your beautiful photos and get the same dance video with just one click.",
+      "is_show": true,
+      "image_use": "1",
+      "api": "pixverse",
       "thumbnail_gif_path": "https://media.pixverse.ai/asset%2Ftemplate%2F340.webp",
       "audio_path": "https://media.pixverse.ai/asset%2Ftemplate%2F340.mp3"
     },
     "421226889994752": {
       "display_name": "Slow Dance - I Love You",
       "template_id": 421226889994752,
-      "workflow_tag": "meta_v66reference_20260726",
       "display_prompt": "Upload your beautiful photos and get the same dance video with just one click.",
-      "effect_type": "1",
-      "duration": 15,
-      "marker": "",
-      "thumbnail_path": "https://media.pixverse.ai/asset%2Ftemplate%2F340.jpg",
-      "thumbnail_video_path": "https://media.pixverse.ai/asset%2Ftemplate%2F340.mp4",
+      "is_show": true,
+      "image_use": "1",
+      "api": "pixverse",
       "thumbnail_gif_path": "https://media.pixverse.ai/asset%2Ftemplate%2F339.webp",
       "audio_path": "https://media.pixverse.ai/asset%2Ftemplate%2F340.mp3"
     },
     "421226558487040": {
       "display_name": "Charming Card Dance",
       "template_id": 421226558487040,
-      "workflow_tag": "meta_v66reference_20260726",
       "display_prompt": "Upload your beautiful photos and get the same dance video with just one click.",
-      "effect_type": "1",
-      "duration": 15,
-      "marker": "",
-      "thumbnail_path": "https://media.pixverse.ai/asset%2Ftemplate%2F340.jpg",
-      "thumbnail_video_path": "https://media.pixverse.ai/asset%2Ftemplate%2F340.mp4",
+      "is_show": true,
+      "image_use": "1",
+      "api": "pixverse",
       "thumbnail_gif_path": "https://media.pixverse.ai/asset%2Ftemplate%2F338.webp",
       "audio_path": "https://media.pixverse.ai/asset%2Ftemplate%2F340.mp3"
     },
     "421224298813952": {
       "display_name": "Hot Dance Moment",
       "template_id": 421224298813952,
-      "workflow_tag": "meta_v66reference_20260726",
       "display_prompt": "Upload your beautiful photos and get the same dance video with just one click.",
-      "effect_type": "1",
-      "duration": 15,
-      "marker": "",
-      "thumbnail_path": "https://media.pixverse.ai/asset%2Ftemplate%2F340.jpg",
-      "thumbnail_video_path": "https://media.pixverse.ai/asset%2Ftemplate%2F340.mp4",
+      "is_show": true,
+      "image_use": "1",
+      "api": "pixverse",
       "thumbnail_gif_path": "https://media.pixverse.ai/asset%2Ftemplate%2F331.webp",
       "audio_path": "https://media.pixverse.ai/asset%2Ftemplate%2F340.mp3"
     },
     "421224037978624": {
       "display_name": "Redance Dance Imitation",
       "template_id": 421224037978624,
-      "workflow_tag": "meta_v66reference_20260726",
       "display_prompt": "Upload your beautiful photos and get the same dance video with just one click.",
-      "effect_type": "1",
-      "duration": 15,
-      "marker": "",
-      "thumbnail_path": "https://media.pixverse.ai/asset%2Ftemplate%2F340.jpg",
-      "thumbnail_video_path": "https://media.pixverse.ai/asset%2Ftemplate%2F340.mp4",
+      "is_show": true,
+      "image_use": "1",
+      "api": "pixverse",
       "thumbnail_gif_path": "https://media.pixverse.ai/asset%2Ftemplate%2F333.webp",
       "audio_path": "https://media.pixverse.ai/asset%2Ftemplate%2F340.mp3"
     },
+    "423352324923840": {
+      "display_name": "Dingding Dangdang Dance",
+      "template_id": 423352324923840,
+      "display_prompt": "Upload your own beautiful photos and get the same dance video with just one click",
+      "is_show": true,
+      "image_use": "1",
+      "api": "pixverse",
+      "app_thumbnail_gif_url": "https://media.pixverse.ai/asset%2Ftemplate%2F2003.webp",
+      "audio_path": "https://media.pixverse.ai/asset%2Ftemplate%2F2003.mp3"
+    },
+    "422469880444992": {
+      "display_name": "Shallow Dance: Bad Boy",
+      "template_id": 422469880444992,
+      "display_prompt": "Upload your own beautiful photos and get the same dance video with just one click",
+      "is_show": true,
+      "image_use": "1",
+      "api": "pixverse",
+      "app_thumbnail_gif_url": "https://media.pixverse.ai/asset%2Ftemplate%2F854.webp",
+      "audio_path": "https://media.pixverse.ai/asset%2Ftemplate%2F854.mp3"
+    },
+    "421961846842688": {
+      "display_name": "Spicy dance: kissoflife",
+      "template_id": 421961846842688,
+      "display_prompt": "Upload your own beautiful photos and get the same dance video with just one click",
+      "is_show": true,
+      "image_use": "1",
+      "api": "pixverse",
+      "app_thumbnail_gif_url": "https://media.pixverse.ai/asset%2Ftemplate%2F639.webp",
+      "audio_path": "https://media.pixverse.ai/asset%2Ftemplate%2F639.mp3"
+    },
+    "421941788742976": {
+      "display_name": "Sweet feeling: Seriorita",
+      "template_id": 421941788742976,
+      "display_prompt": "Upload your own beautiful photos and get the same dance video with just one click",
+      "is_show": true,
+      "image_use": "1",
+      "api": "pixverse",
+      "app_thumbnail_gif_url": "https://media.pixverse.ai/asset%2Ftemplate%2F621.webp",
+      "audio_path": "https://media.pixverse.ai/asset%2Ftemplate%2F621.mp3"
+    },
+    "423375773916096": {
+      "display_name": "Handsome Dance: History",
+      "template_id": 423375773916096,
+      "display_prompt": "Upload your own beautiful photos and get the same dance video with just one click",
+      "is_show": true,
+      "image_use": "1",
+      "api": "pixverse",
+      "app_thumbnail_gif_url": "https://media.pixverse.ai/asset%2Ftemplate%2F460.webp",
+      "audio_path": "https://media.pixverse.ai/asset%2Ftemplate%2F460.mp3"
+    },
+    "423040174550720": {
+      "display_name": "New Dance",
+      "template_id": 423040174550720,
+      "display_prompt": "Upload your own beautiful photos and get the same dance video with just one click",
+      "is_show": true,
+      "image_use": "1",
+      "api": "pixverse",
+      "app_thumbnail_gif_url": "https://media.pixverse.ai/asset%2Ftemplate%2F1401.webp",
+      "audio_path": "https://media.pixverse.ai/asset%2Ftemplate%2F1401.mp3"
+    },
+    "421227859032576": {
+      "display_name": "ABS Vinegar Shake",
+      "template_id": 421227859032576,
+      "display_prompt": "Upload your own beautiful photos and get the same dance video with just one click",
+      "is_show": true,
+      "image_use": "1",
+      "api": "pixverse",
+      "app_thumbnail_gif_url": "https://media.pixverse.ai/asset%2Ftemplate%2F341.webp",
+      "audio_path": "https://media.pixverse.ai/asset%2Ftemplate%2F341.mp3"
+    },
+    "418458040716224": {
+      "display_name": "Everyone Is Obsessed",
+      "template_id": 418458040716224,
+      "display_prompt": "Something is happening. Everyone is watching.",
+      "is_show": true,
+      "image_use": "1",
+      "api": "pixverse",
+      "app_thumbnail_gif_url": "https://media.pixverse.ai/asset%2Ftemplate%2F%E8%88%9E%E8%B9%88%E5%8A%A8%E4%BD%9C.webp",
+      "audio_path": "https://media.pixverse.ai/asset%2Ftemplate%2F%E8%88%9E%E8%B9%88%E5%8A%A8%E4%BD%9C.mp3"
+    },
+    "418457177152448": {
+      "display_name": "The Stars on Stage",
+      "template_id": 418457177152448,
+      "display_prompt": "Even a single individual can stand out from a team and radiate confidence.",
+      "is_show": true,
+      "image_use": "1",
+      "api": "pixverse",
+      "app_thumbnail_gif_url": "https://media.pixverse.ai/asset%2Ftemplate%2F%E8%B9%A6%E8%BF%AA.webp",
+      "audio_path": "https://media.pixverse.ai/asset%2Ftemplate%2F%E8%B9%A6%E8%BF%AA.mp3"
+    },
+    "418456472466368": {
+      "display_name": "Born To Shine On Stage",
+      "template_id": 418456472466368,
+      "display_prompt": "Upload your photo and shine like a festival headliner surrounded by lights and cheers.",
+      "is_show": true,
+      "image_use": "1",
+      "api": "pixverse",
+      "app_thumbnail_gif_url": "https://media.pixverse.ai/asset%2Ftemplate%2F%E9%9F%B3%E4%B9%90%E8%8A%82%E8%88%9E%E8%B9%88.webp",
+      "audio_path": "https://media.pixverse.ai/asset%2Ftemplate%2F%E9%9F%B3%E4%B9%90%E8%8A%82%E8%88%9E%E8%B9%88.mp3"
+    },
+    "419495334797504": {
+      "display_name": "Seven Move Challenge",
+      "template_id": 419495334797504,
+      "display_prompt": "Your turn. Own every move.",
+      "is_show": true,
+      "image_use": "1",
+      "api": "pixverse",
+      "app_thumbnail_gif_url": "https://media.pixverse.ai/asset%2Ftemplate%2Fseven%E5%AE%A4%E5%86%85%E8%88%9E%E8%B9%88.webp",
+      "audio_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fseven%E5%AE%A4%E5%86%85%E8%88%9E%E8%B9%88.mp3"
+    },
+    "419496621990080": {
+      "display_name": "Michico Dance Challenge",
+      "template_id": 419496621990080,
+      "display_prompt": "Upload a person, pet, or character to recreate the Michico dance with playful rhythm, smooth hand gestures, relaxed body movement, and catchy beat-synced choreography. A fun social-media dance template with lively energy, stylish motion, and natural performance vibes.",
+      "is_show": true,
+      "image_use": "1",
+      "api": "pixverse",
+      "app_thumbnail_gif_url": "https://media.pixverse.ai/asset%2Ftemplate%2F%E5%AE%A4%E5%86%85%E8%88%9E%E8%B9%88.webp",
+      "audio_path": "https://media.pixverse.ai/asset%2Ftemplate%2F%E5%AE%A4%E5%86%85%E8%88%9E%E8%B9%88.mp3"
+    },
+    "421229156672000": {
+      "display_name": "meigamind dance！",
+      "template_id": 421229156672000,
+      "display_prompt": "Move to the beat, own the moment.",
+      "is_show": true,
+      "image_use": "1",
+      "api": "pixverse",
+      "app_thumbnail_gif_url": "https://media.pixverse.ai/asset%2Ftemplate%2FV6_0827.webp",
+      "audio_path": ""
+    },
+    "419494522339520": {
+      "display_name": "60s Dance Night",
+      "template_id": 419494522339520,
+      "display_prompt": "Step into the scene. Twist like a movie star. ??",
+      "is_show": true,
+      "image_use": "1",
+      "api": "pixverse",
+      "app_thumbnail_gif_url": "https://media.pixverse.ai/asset%2Ftemplate%2F%E4%BD%8E%E4%BF%97%E5%B0%8F%E8%AF%B43.webp",
+      "audio_path": "https://media.pixverse.ai/asset%2Ftemplate%2F%E4%BD%8E%E4%BF%97%E5%B0%8F%E8%AF%B43.mp3"
+    },
+    "418094188948608": {
+      "display_name": "Scuba dance！",
+      "template_id": 418094188948608,
+      "display_prompt": "Snappy rhythm matches cool casual gestures, trending wildly across social platforms.",
+      "is_show": true,
+      "image_use": "1",
+      "api": "pixverse",
+      "app_thumbnail_gif_url": "https://media.pixverse.ai/asset%2Ftemplate%2Fscubafanxin_260809.webp",
+      "audio_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fscubafanxin_260809.mp3"
+    },
+    "383756608071104": {
+      "display_name": "C-Walk Flow",
+      "template_id": 383756608071104,
+      "display_prompt": "Light footwork, sharp steps — let the rhythm guide your C-Walk flow.",
+      "is_show": true,
+      "image_use": "1",
+      "api": "pixverse",
+      "app_thumbnail_gif_url": "https://media.pixverse.ai/asset%2Ftemplate%2F4%E6%9C%8821%E6%97%A5+%281%29.webp",
+      "audio_path": "https://media.pixverse.ai/asset%2Ftemplate%2F4%E6%9C%8821%E6%97%A5+%281%29.mp3"
+    },
+    "417209344089216": {
+      "display_name": "move like animal",
+      "template_id": 417209344089216,
+      "display_prompt": "Move your body like an animal, unleash your primal instincts!",
+      "is_show": true,
+      "image_use": "1",
+      "api": "pixverse",
+      "app_thumbnail_gif_url": "https://media.pixverse.ai/asset%2Ftemplate%2Fanimal.webp",
+      "audio_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fanimal.mp3"
+    },
+    "416278340746048": {
+      "display_name": "OBH combi saset",
+      "template_id": 416278340746048,
+      "display_prompt": "Instantly generate your exclusive gesture dance",
+      "is_show": true,
+      "image_use": "1",
+      "api": "pixverse",
+      "app_thumbnail_gif_url": "https://media.pixverse.ai/asset%2Ftemplate%2FOBH0731.webp",
+      "audio_path": ""
+    },
+    "409589071559552": {
+      "display_name": "Dai Dai dance",
+      "template_id": 409589071559552,
+      "display_prompt": "Vibe cheering dance template. One front photo, dance stadium clips easily.",
+      "is_show": true,
+      "image_use": "1",
+      "api": "pixverse",
+      "app_thumbnail_gif_url": "https://media.pixverse.ai/asset%2Ftemplate%2Fdaidai_260622.webp",
+      "audio_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fdaidai_260622.mp3"
+    },
+    "409766559675264": {
+      "display_name": "Thriller Dance",
+      "template_id": 409766559675264,
+      "display_prompt": "Upload a photo and watch it turn into a viral, iconic dance trend!",
+      "is_show": true,
+      "image_use": "1",
+      "api": "pixverse",
+      "app_thumbnail_gif_url": "https://media.pixverse.ai/studio%2Fimg%2Fff33a8fd-b435-4b2c-9405-7dd1d1ed8fe1.webp",
+      "audio_path": "https://media.pixverse.ai/studio%2Faudio%2Fprod%2Fca0d2da1-bb41-44e7-9340-788d4196c406.mp3"
+    },
+    "416120620480704": {
+      "display_name": "PUBG Winner Hit!",
+      "template_id": 416120620480704,
+      "display_prompt": "Upload an image to unlock the moment of victory",
+      "is_show": true,
+      "image_use": "1",
+      "api": "pixverse",
+      "app_thumbnail_gif_url": "https://media.pixverse.ai/asset%2Ftemplate%2FPUBG-0731.webp",
+      "audio_path": ""
+    },
+    "403739217192896": {
+      "display_name": "Apex Dance",
+      "template_id": 403739217192896,
+      "display_prompt": "Lay‑flat Rhythm, Depressed‑style Chaotic Dance",
+      "is_show": true,
+      "image_use": "1",
+      "api": "pixverse",
+      "app_thumbnail_gif_url": "https://media.pixverse.ai/asset%2Ftemplate%2F5%E6%9C%8820%E6%97%A5%281%29.webp",
+      "audio_path": "https://media.pixverse.ai/asset%2Ftemplate%2F5%E6%9C%8820%E6%97%A5%281%29.mp3"
+    },
+    "388850822837312": {
+      "display_name": "Tokyo Drift",
+      "template_id": 388850822837312,
+      "display_prompt": "You finally mastered the drift walk. ",
+      "is_show": true,
+      "image_use": "1",
+      "api": "pixverse",
+      "app_thumbnail_gif_url": "https://media.pixverse.ai/asset%2Ftemplate%2Ftokyodrifts-0225.webp",
+      "audio_path": "https://media.pixverse.ai/asset%2Ftemplate%2Ftokyodrifts-0225.mp3"
+    },
+    "421406817151296": {
+      "display_name": "Controlled by a Finger",
+      "template_id": 421406817151296,
+      "display_prompt": "One touch, and every move is under control.",
+      "is_show": true,
+      "image_use": "1",
+      "api": "pixverse",
+      "app_thumbnail_gif_url": "https://media.pixverse.ai/asset%2Ftemplate%2FV6_082801.webp",
+      "audio_path": ""
+    },
+    "423394087102848": {
+      "display_name": "Vroom Vroom Step!",
+      "template_id": 423394087102848,
+      "display_prompt": "Vroom goes the beat, step hits the street",
+      "is_show": true,
+      "image_use": "1",
+      "api": "pixverse",
+      "app_thumbnail_gif_url": "https://media.pixverse.ai/asset%2Ftemplate%2F090800.webp",
+      "audio_path": "https://media.pixverse.ai/asset%2Ftemplate%2F090800.mp3"
+    },
+    "421271048389120": {
+      "display_name": "rampage dance",
+      "template_id": 421271048389120,
+      "display_prompt": "Hit RAMPAGE! Instant chaotic blow‑up moment for your parody edits.",
+      "is_show": true,
+      "image_use": "1",
+      "api": "pixverse",
+      "app_thumbnail_gif_url": "https://media.pixverse.ai/asset%2Ftemplate%2Frampagedance_260827.webp",
+      "audio_path": "https://media.pixverse.ai/asset%2Ftemplate%2Frampagedance_260827.mp3"
+    },
+    "422328195663104": {
+      "display_name": "Kawaii Mode ON",
+      "template_id": 422328195663104,
+      "display_prompt": "Cute gestures hit one after another—instant Japanese idol energy.",
+      "is_show": true,
+      "image_use": "1",
+      "api": "pixverse",
+      "app_thumbnail_gif_url": "https://media.pixverse.ai/asset%2Ftemplate%2F260903.webp",
+      "audio_path": "https://media.pixverse.ai/asset%2Ftemplate%2F260903.mp3"
+    },
+    "386547264666688": {
+      "display_name": "Winter's End Sway",
+      "template_id": 386547264666688,
+      "display_prompt": "Raise your left hand!",
+      "is_show": true,
+      "image_use": "1",
+      "api": "pixverse",
+      "app_thumbnail_gif_url": "https://media.pixverse.ai/asset%2Ftemplate%2F%E4%B8%BE%E8%B5%B7%E5%B7%A6%E6%89%8B%E6%91%87_.webp",
+      "audio_path": "https://media.pixverse.ai/asset%2Ftemplate%2F%E4%B8%BE%E8%B5%B7%E5%B7%A6%E6%89%8B%E6%91%87_.mp3"
+    },
+    "421050748444352": {
+      "display_name": "Oriental Phonk!",
+      "template_id": 421050748444352,
+      "display_prompt": "Dance the Chinese Trend. Future pulse, mountain echoes.",
+      "is_show": true,
+      "image_use": "1",
+      "api": "pixverse",
+      "app_thumbnail_gif_url": "https://media.pixverse.ai/asset%2Ftemplate%2FV608261.webp",
+      "audio_path": ""
+    }
   }
 }
