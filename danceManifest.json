@@ -1,5 +1,5 @@
 {
-  "version": 6,
+  "version": 7,
   "updated_at": "2026-06-05",
   "featured_effects": [
     421961846842688,
@@ -20,8 +20,7 @@
         421961846842688,
         421941788742976,
         423375773916096,
-        423040174550720,
-        421224037978624
+        423040174550720
       ]
     },
     {
@@ -37,7 +36,7 @@
     },
     {
       "id": "hot",
-      "title": "Category 2",
+      "title": "Dance Floor",
       "effects": [
         418458040716224,
         418457177152448,
@@ -53,7 +52,7 @@
     },
     {
       "id": "hot",
-      "title": "Category 3",
+      "title": "Viral Hits",
       "effects": [
         416278340746048,
         409589071559552,
@@ -65,6 +64,20 @@
         422328195663104,
         421050748444352,
         386547264666688
+      ]
+    },
+    {
+      "id": "hot",
+      "title": "Dance Moves",
+      "effects": [
+        401820560876352,
+        419498204907712,
+        419495964465344,
+        397382663649216,
+        343058274917440,
+        417719655451776,
+        343058574996544,
+        422142221762944
       ]
     }
   ],
@@ -107,7 +120,7 @@
       "image_use": "1",
       "api": "pixverse",
       "app_thumbnail_gif_url": "https://media.pixverse.ai/asset%2Ftemplate%2F338.webp",
-      "audio_path": "https://media.pixverse.ai/asset%2Ftemplate%2F340.mp3"
+      "audio_path": "https://media.pixverse.ai/asset%2Ftemplate%2F339.mp3"
     },
     "421224298813952": {
       "display_name": "Hot Dance Moment",
@@ -117,7 +130,7 @@
       "image_use": "1",
       "api": "pixverse",
       "app_thumbnail_gif_url": "https://media.pixverse.ai/asset%2Ftemplate%2F331.webp",
-      "audio_path": "https://media.pixverse.ai/asset%2Ftemplate%2F340.mp3"
+      "audio_path": "https://media.pixverse.ai/asset%2Ftemplate%2F331.mp3"
     },
     "421224037978624": {
       "display_name": "Redance Dance Imitation",
@@ -127,7 +140,7 @@
       "image_use": "1",
       "api": "pixverse",
       "app_thumbnail_gif_url": "https://media.pixverse.ai/asset%2Ftemplate%2F333.webp",
-      "audio_path": "https://media.pixverse.ai/asset%2Ftemplate%2F340.mp3"
+      "audio_path": "https://media.pixverse.ai/asset%2Ftemplate%2F333.mp3"
     },
     "423352324923840": {
       "display_name": "Dingding Dangdang Dance",
@@ -417,6 +430,86 @@
       "image_use": "1",
       "api": "pixverse",
       "app_thumbnail_gif_url": "https://media.pixverse.ai/asset%2Ftemplate%2FV608261.webp",
+      "audio_path": ""
+    },
+    "419495964465344": {
+      "display_name": "Bathroom Hot Dance",
+      "template_id": 419495964465344,
+      "display_prompt": "Turn up the music and dance like nobody’s watching.",
+      "is_show": true,
+      "image_use": "1",
+      "api": "pixverse",
+      "app_thumbnail_gif_url": "https://media.pixverse.ai/asset%2Ftemplate%2F%E7%8C%AB%E5%92%AA%E6%81%B0%E6%81%B0.webp",
+      "audio_path": "https://media.pixverse.ai/asset%2Ftemplate%2F%E7%8C%AB%E5%92%AA%E6%81%B0%E6%81%B0.mp3"
+    },
+    "419498204907712": {
+      "display_name": "Wednesday Mode",
+      "template_id": 419498204907712,
+      "display_prompt": "Step into your dark era",
+      "is_show": true,
+      "image_use": "1",
+      "api": "pixverse",
+      "app_thumbnail_gif_url": "https://media.pixverse.ai/asset%2Ftemplate%2F112%E8%88%9E%E8%B9%88.webp",
+      "audio_path": "https://media.pixverse.ai/asset%2Ftemplate%2F112%E8%88%9E%E8%B9%88.mp3"
+    },
+    "401820560876352": {
+      "display_name": "Jamal step",
+      "template_id": 401820560876352,
+      "display_prompt": "Today’s vibe: Jamal Step!",
+      "is_show": true,
+      "image_use": "1",
+      "api": "pixverse",
+      "app_thumbnail_gif_url": "https://media.pixverse.ai/asset%2Ftemplate%2Fjamalstep_260509.webp",
+      "audio_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fjamalstep_260509.mp3"
+    },
+    "397382663649216": {
+      "display_name": "shake it",
+      "template_id": 397382663649216,
+      "display_prompt": "Don’t blink — just shake it.",
+      "is_show": true,
+      "image_use": "1",
+      "api": "pixverse",
+      "app_thumbnail_gif_url": "https://media.pixverse.ai/asset%2Ftemplate%2Fshakeit_260423.webp",
+      "audio_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fshakeit_260423.mp3"
+    },
+    "343058274917440": {
+      "display_name": "Gabu Dance",
+      "template_id": 343058274917440,
+      "display_prompt": "Eu Sento Gabu! Everywhere you walk is Runway",
+      "is_show": true,
+      "image_use": "1",
+      "api": "pixverse",
+      "app_thumbnail_gif_url": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_gabudance_0624.webp",
+      "audio_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fgabu.MP3"
+    },
+    "417719655451776": {
+      "display_name": "Cavalona dance!",
+      "template_id": 417719655451776,
+      "display_prompt": "Who says flair belongs only to the spotlight?",
+      "is_show": true,
+      "image_use": "1",
+      "api": "pixverse",
+      "app_thumbnail_gif_url": "https://media.pixverse.ai/asset%2Ftemplate%2Fcavalonadance1.webpp",
+      "audio_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fcavalonadance1.mp3"
+    },
+    "343058574996544": {
+      "display_name": "Li Xi Cheng Merch",
+      "template_id": 343058574996544,
+      "display_prompt": "Once upon a time, a legend was born",
+      "is_show": true,
+      "image_use": "1",
+      "api": "pixverse",
+      "app_thumbnail_gif_url": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_lixicheng_250626.webp",
+      "audio_path": "https://media.pixverse.ai/asset%2Ftemplate%2Flixicheng.MP3"
+    },
+    "422142221762944": {
+      "display_name": "Trauma Reflex",
+      "template_id": 422142221762944,
+      "display_prompt": "He thought it was just a silly face-dance challenge—until the moves got way too personal.",
+      "is_show": true,
+      "image_use": "1",
+      "api": "pixverse",
+      "app_thumbnail_gif_url": "https://media.pixverse.ai/asset%2Ftemplate%2Freflex_260901.webp",
       "audio_path": ""
     }
   }
