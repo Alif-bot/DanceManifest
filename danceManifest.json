@@ -1,5 +1,5 @@
 {
-  "version": 7,
+  "version": 8,
   "updated_at": "2026-06-05",
   "featured_effects": [
     421961846842688,
@@ -35,7 +35,7 @@
       ]
     },
     {
-      "id": "hot",
+      "id": "dance",
       "title": "Dance Floor",
       "effects": [
         418458040716224,
@@ -51,7 +51,7 @@
       ]
     },
     {
-      "id": "hot",
+      "id": "viral",
       "title": "Viral Hits",
       "effects": [
         416278340746048,
@@ -67,7 +67,7 @@
       ]
     },
     {
-      "id": "hot",
+      "id": "moves",
       "title": "Dance Moves",
       "effects": [
         401820560876352,
