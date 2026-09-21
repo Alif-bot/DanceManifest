@@ -1,5 +1,5 @@
 {
-  "version": 9,
+  "version": 10,
   "updated_at": "2026-06-05",
   "featured_effects": [
     421961846842688,
@@ -9,7 +9,7 @@
   "categories": [
     {
       "id": "new",
-      "title": "New",
+      "title": "Trending Now",
       "effects": [
         421224037978624,
         421224298813952,
@@ -67,8 +67,8 @@
       ]
     },
     {
-      "id": "moves",
-      "title": "Dance Moves",
+      "id": "party",
+      "title": "Party Mode",
       "effects": [
         369204968292544,
         401820560876352,
