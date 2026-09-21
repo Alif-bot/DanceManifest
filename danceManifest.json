@@ -1,5 +1,5 @@
 {
-  "version": 8,
+  "version": 9,
   "updated_at": "2026-06-05",
   "featured_effects": [
     421961846842688,
@@ -70,6 +70,7 @@
       "id": "moves",
       "title": "Dance Moves",
       "effects": [
+        369204968292544,
         401820560876352,
         419498204907712,
         419495964465344,
@@ -511,6 +512,16 @@
       "api": "pixverse",
       "app_thumbnail_gif_url": "https://media.pixverse.ai/asset%2Ftemplate%2Freflex_260901.webp",
       "audio_path": ""
+    },
+     "369204968292544": {
+      "display_name": "Sugar on my tongue",
+      "template_id": 369204968292544,
+      "display_prompt": "Let your body pop like a candy.",
+      "is_show": true,
+      "image_use": "1",
+      "api": "pixverse",
+      "app_thumbnail_gif_url": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_sugar_251116.webp",
+      "audio_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_sugar_251116.mp3"
     }
   }
 }
